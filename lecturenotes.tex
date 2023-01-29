@@ -1,0 +1,102 @@
+\documentclass[11pt,a4paper]{report}
+\fontfamily{cmss}
+\hfuzz=9999pt % "fix" hbox overfull
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue
+}
+
+\begin{titlepage}
+\title{BU551W - Advances in Machine Learning in Finance \\ Lecture Notes}
+\author{Rodrigo Miguel}
+\date{\today}
+\end{titlepage}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\chapter{Lecture 1 - Introduction to Machine Learning in Finance}
+\section{Big Data in Finance}
+\subsection{What is Big Data?}
+\paragraph{Definition} Volume (the amount of data), velocity (the speed of data processing) and variety (the number of types of data).
+\subsection{Big Data Applications}
+\begin{itemize}
+    \item Analyse customer satisfaction;
+    \item Speed up manual processes with transactional data;
+    \item Analyse financial performance;
+    \item Customer recommendation.
+\end{itemize}
+\subsection{Big Data in Finance}
+From a \textbf{practitioners'} perspective, big data refers to petabytes of structure and unstructured data that can be used to anticipate customer behaviour and create strategies for banks and other financial institutions.
+\\
+From an \textbf{academic} perspective, big data in finance research is large sized, high dimension and with a complex structure:
+\begin{itemize}
+    \item Large size: the data is large in an absolute and relative sense, e.g. transaction-level market microstructure data;
+    \item High dimension: the data has many variables relative to its sample size;
+    \item Complex structure: unstructured data includes text, pictures, videos, audio and voice.
+\end{itemize}
+\subsection{Big Data Challenges in Finance}
+\begin{itemize}
+    \item \textbf{Regulatory framework:} strict regulatory requirements that need to be followed, e.g. Fundamental Review of the Trading Book, governing access to critical data and demands accelerated reporting.
+    \item \textbf{Data privacy/security:} unauthorised data collection, hackers, etc;
+    \item \textbf{Data quality:} ensuring information is accurate, usable and secure is a challenge;
+    \item Cloud solutions for financial data.
+\end{itemize}
+
+\section{The Role of Machine Learning}
+\subsection{What is Machine Learning?}
+\paragraph{Machine Learning} Is a field of study that allows computers the ability to learn and improve without being programmed continuously.
+\\Traditional programming is done by a programmer that programs a computer and runs the software to get an output. To improve it, more programming needs to be done by the programmer.
+Machine learning reads inputs and outputs, the computer automatically processes these and outputs a program.
+\subsection{Applications of Machine Learning}
+\begin{itemize}
+    \item E-mail spam detection;
+    \item Face detection and matching, e.g. Face ID;
+    \item Self-driving cars;
+    \item Language translation;
+    \item Drug design;
+    \item etc.
+\end{itemize}
+\subsection{Machine Learning in the field of Finance}
+In 2020, a definition of machine learning was proposed:
+\begin{itemize}
+    \item A diverse collection of high-dimensional models for statistical prediction;
+    \item "Regularisation" methods for model selection and mitigation of overfit;
+    \item Efficient algorithms for searching among a vast number of potential specifications.
+\end{itemize}
+\subsection{How Machine Learning is Used in Finance}
+\begin{itemize}
+    \item Fraud detection and prevention: machines learn to identify and combat fraudulent financial transactions;
+    \item Robo-advisors;
+    \item Credit rating;
+    \item Algorithmic trading;
+    \item Return prediction.
+\end{itemize}
+\subsection{Terminology}
+\begin{itemize}
+    \item \textbf{Algorithm:} set of rules that a machine follows to achieve a certain goal. Example: Cooking recipes are algorithms, the cooking steps are algorithms instructions, and ingredients are inputs. The cooked food is the output.
+    \item A \textbf{Learner} or \textbf{Machine Learning Algorithm} is a program used to learn a machine learning model from data.
+    \item A \textbf{Black Box Model} is a system that does not reveal its internal mechanisms, opposite of a \textbf{White Box};
+    \item \textbf{Interpretable Machine Learning} refers to the methods and models that make the behaviour and predictions of the machine learning systems understandable to humans;
+    \item A \textbf{Dataset} is a table with the data from which the machine learns from;
+    \item An \textbf{Instance/Observation} is a row in the dataset;
+    \item The \textbf{Features} are the inputs used for prediction or classification (column in the dataset).
+    \item A \textbf{Machine Learning Task} is the combination of a dataset with features and a target. E.g. classification, regression, survival analysis and/or clustering;
+    \item The \textbf{Prediction} is what the machine learning model "guesses" what the target value should be, based on the features given.
+\end{itemize}
+
+\chapter{Lecture 2 - Financial Data Science with Python}
+\chapter{Lecture 3 - Web Scraping with Python}
+\chapter{Lecture 4 - Machine Learning Basics}
+\chapter{Lecture 5 - Supervised Learning}
+\chapter{Lecture 6 - Supervised Learning - Classifiers}
+\chapter{Lecture 7 - Unsupervised Learning and Cross-Validation}
+\chapter{Lecture 8 - Text as Data}
+\chapter{Lecture 9 - Financial Technology}
+\chapter{Lecture 10 - Fully Automated Trading System}
+
+\end{document}
