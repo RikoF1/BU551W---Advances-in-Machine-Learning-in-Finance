@@ -1,6 +1,6 @@
-PWD c:\Users\rodmi\OneDrive - University of Aberdeen\University\Year 5 - Financial Technology\BU551W - Advances in Machine Learning in Finance
+PWD c:\Users\rodmi\OneDrive - University of Aberdeen\University\Year 5 - Financial Technology\BU551W - Advances in Machine Learning in Finance\Lecture Notes
 INPUT C:\Users\rodmi\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\rodmi\OneDrive - University of Aberdeen\University\Year 5 - Financial Technology\BU551W - Advances in Machine Learning in Finance\lecturenotes.tex
+INPUT c:\Users\rodmi\OneDrive - University of Aberdeen\University\Year 5 - Financial Technology\BU551W - Advances in Machine Learning in Finance\Lecture Notes\lecturenotes.tex
 OUTPUT lecturenotes.log
 INPUT C:\Users\rodmi\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\rodmi\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -417,9 +417,12 @@ INPUT C:\Users\rodmi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\rodmi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\rodmi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\rodmi\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
+INPUT C:\Users\rodmi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT lecturenotes.aux
 INPUT .\lecturenotes.out
 INPUT .\lecturenotes.out
+INPUT C:\Users\rodmi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\cm\dpi657\cmti10.pk
+INPUT C:\Users\rodmi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\cm\dpi657\cmti10.pk
 INPUT C:\Users\rodmi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\rodmi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\rodmi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\cm\dpi600\cmbx12.pk

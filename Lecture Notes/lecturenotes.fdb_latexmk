@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1675014612 "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/lecturenotes.tex" "lecturenotes.pdf" "lecturenotes" 1675014614
+["pdflatex"] 1675176655 "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/Lecture Notes/lecturenotes.tex" "lecturenotes.pdf" "lecturenotes" 1675176658
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1674997264 23063 7b9b4c90c7782748e1ffd9ab7b72b3c0 ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1674932722 12668 c8a265a187f3b5f5070bfcb96fba17db ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi1037/cmbx12.pk" 1674929353 27296 6edcbe3a29cc200b64adfa386f93e10f ""
@@ -9,6 +9,7 @@
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi600/cmr17.pk" 1674913290 19296 d5e3f4d92f6c01eabfe3b209b2a66371 ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi657/cmbx10.pk" 1674932730 12788 b581ec44c1a2a65d297239c5dd0a6d06 ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi657/cmr10.pk" 1674932725 11896 c4199117ea03efb0959834e87cf3740a ""
+  "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi657/cmti10.pk" 1675106519 16540 fead7b271a876f6784f27bbd73e0ab15 ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi720/cmbx12.pk" 1674927146 17936 a2c6cd6a2627af7267158a068ecb2845 ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1667985334 7571892 7a5caa7c9c52eeae5bb49e22cec0b3fd ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1095.tfm" 993058908 1460 8005ce585ff351dff78998923504da5e ""
@@ -26,6 +27,7 @@
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -64,11 +66,11 @@
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/lecturenotes.tex" 1675014609 5524 2a0fd9dc99d17c684b7f49e2c2d57bea ""
-  "lecturenotes.aux" 1675014613 4370 770fe9da9d58edee898e55db148c75cd "pdflatex"
-  "lecturenotes.out" 1675014613 4792 2c0f81f80385b826d30486e046c40bb9 "pdflatex"
-  "lecturenotes.tex" 1675014609 5524 2a0fd9dc99d17c684b7f49e2c2d57bea ""
-  "lecturenotes.toc" 1675014613 2112 5f1400996d929964e429e9993649c1f1 "pdflatex"
+  "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/Lecture Notes/lecturenotes.tex" 1675176644 7299 3614cca92243012540a50186eda3a741 ""
+  "lecturenotes.aux" 1675176657 5229 46b0174080c9cdf0bd0e70283c1f136f "pdflatex"
+  "lecturenotes.out" 1675176657 5969 7ebe3bbe87d13fcdc6985ea3048c47b4 "pdflatex"
+  "lecturenotes.tex" 1675176644 7299 3614cca92243012540a50186eda3a741 ""
+  "lecturenotes.toc" 1675176657 2684 b5635734a9852f7efcc43adf987777c4 "pdflatex"
   (generated)
   "lecturenotes.aux"
   "lecturenotes.log"

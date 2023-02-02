@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.9)  29 JAN 2023 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.9)  31 JAN 2023 14:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/lecturenotes.tex"
-(c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/lecturenotes.tex
+**"c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/Lecture Notes/lecturenotes.tex"
+(c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551W - Advances in Machine Learning in Finance/Lecture Notes/lecturenotes.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-10-26> (C:\Users\rodmi\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -202,73 +202,73 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/rodmi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (lecturenotes.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
-)
-\tf@toc=\write4
-\openout4 = `lecturenotes.toc'.
-
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 \chapter
-             {Lecture 1 - Introduction to Machine Learning in Finance} [1
+l.29 ...e 9 - Financial Technology}{14}{chapter.9}
+                                                  % [1
 
-]
+])
+\tf@toc=\write4
+\openout4 = `lecturenotes.toc'.
+
+ [2]
 Chapter 1.
-[2
+[3
 
-] [3] [4]
+] [4] [5]
 Chapter 2.
-[5
-
-]
-Chapter 3.
 [6
 
-]
-Chapter 4.
-[7
-
-]
-Chapter 5.
+] [7]
+Chapter 3.
 [8
 
 ]
-Chapter 6.
+Chapter 4.
 [9
 
 ]
-Chapter 7.
+Chapter 5.
 [10
 
 ]
-Chapter 8.
+Chapter 6.
 [11
 
 ]
-Chapter 9.
+Chapter 7.
 [12
 
 ]
-Chapter 10.
+Chapter 8.
 [13
+
+]
+Chapter 9.
+[14
+
+]
+Chapter 10.
+[15
 
 ] (lecturenotes.aux)
 Package rerunfilecheck Info: File `lecturenotes.out' has not changed.
-(rerunfilecheck)             Checksum: 2C0F81F80385B826D30486E046C40BB9;4792.
+(rerunfilecheck)             Checksum: 7EBE3BBE87D13FCDC6985EA3048C47B4;5969.
  ) 
 Here is how much of TeX's memory you used:
- 7931 strings out of 477314
- 128023 string characters out of 2827706
- 465462 words of memory out of 3000000
- 28973 multiletter control sequences out of 15000+600000
- 475983 words of font info for 50 fonts, out of 8000000 for 9000
+ 7949 strings out of 477314
+ 128369 string characters out of 2827706
+ 467465 words of memory out of 3000000
+ 28981 multiletter control sequences out of 15000+600000
+ 476329 words of font info for 51 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 72i,6n,77p,530b,494s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi720\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi1037\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmr10.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmbx10.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi1244\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmr12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmr17.pk>
-Output written on lecturenotes.pdf (14 pages, 142258 bytes).
+ 72i,6n,77p,544b,496s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmti10.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi720\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi1037\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmr10.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmbx10.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi1244\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmr12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmr17.pk>
+Output written on lecturenotes.pdf (16 pages, 161549 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 584 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
